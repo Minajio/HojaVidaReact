@@ -9,7 +9,7 @@ export default function Header(){
     return(
         <div className='header'>
             <div className='headerPhoto'>
-                <img src={fotopersonal} alt="fotoPersonal" className={"headerPhotoImg"} />
+                <img src={fotopersonal} alt="fotoPersonal" className="headerPhotoImg" />
             </div>
             <div className='headerNombres'>
                 <h1>Andres Osorio Zapata</h1>
